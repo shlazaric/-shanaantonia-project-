@@ -1,9 +1,24 @@
-# Item tracker 
-Kolegij: Programsko inženjerstvo : https://fipu.unipu.hr/fipu/predmet/proinz_a
+# item-tracker
 
-Fakultet informatike u Puli : https://fipu.unipu.hr/
+## Project setup
+```
+npm install
+```
 
-Mentor: doc. dr. sc. Nikola Tanković: https://fipu.unipu.hr/fipu/nikola.tankovic
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
 
-## Funkcionalnosti
-Aplikacija prikazuje proizvode jedne poslovnice, mogućnost prijave i odjave iz aplikacije, pretraživanje proizvoda te označavanje kao omiljenih.
+### Compiles and minifies for production
+```
+npm run build
+```
+
+### Lints and fixes files
+```
+npm run lint
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
